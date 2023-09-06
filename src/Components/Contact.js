@@ -2,7 +2,7 @@
 export default function Contact(){
     return(
         <div>
-            Phone: +86 15532544654
+            Phone: +86 1553254465
         </div>
     )
 }
